@@ -21,7 +21,7 @@ It leverages Large Language Models (LLMs) and prompt engineering techniques to g
 ### Backend
 - Python
 - FastAPI
-- LLM APIs (OpenAI / other provider)
+- LLM APIs (OpenAI )
 - Prompt Engineering
 
 ### Frontend
